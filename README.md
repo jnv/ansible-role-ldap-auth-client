@@ -1,6 +1,8 @@
 # ldap-auth-config Role for Ansible
 
-Set up LDAP user authentication using `debconf` in Debian and Ubuntu.
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+Setup LDAP user authentication using `debconf` in Debian and Ubuntu.
 
 ## Requirements
 
